@@ -1,1 +1,0 @@
-(self.webpackChunkidofactory=self.webpackChunkidofactory||[]).push([[704],{36563:function(){},46601:function(){},89214:function(){},52361:function(){},94616:function(){},6567:function(){}}]);
