@@ -1,0 +1,3 @@
+/*! noble-ciphers - MIT License (c) 2023 Paul Miller (paulmillr.com) */
+
+/*! scure-base - MIT License (c) 2022 Paul Miller (paulmillr.com) */
